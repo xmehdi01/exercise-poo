@@ -9,5 +9,5 @@ class Domino():
         m = self.cote1+self.cote2
         print(m)
 ca1 = Domino(4,5)
-(ca1.affichePoint())
-(ca1.somePoint())
+ca1.affichePoint()
+ca1.somePoint()
